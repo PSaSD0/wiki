@@ -1,0 +1,15 @@
+.card{
+    box-shadow: 4px 4px 17px 0px rgba(34, 60, 80, 0.2);\
+}
+
+.btn{
+    box-shadow: 5px 5px 10px 0px rgba(34, 60, 80, 0.2);
+}
+
+.form-select{
+    box-shadow: 5px 5px 10px 0px rgba(34, 60, 80, 0.2);
+}
+
+.form-control{
+    box-shadow: 5px 5px 10px 0px rgba(34, 60, 80, 0.2);
+}
